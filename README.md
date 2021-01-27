@@ -1,4 +1,5 @@
 # AHK Scripts
+
 **altresize.ahk**
   - allows you to resize and drag windows like in Linux, using alt+left click for drag and alt+right click for resize.
   
@@ -21,5 +22,5 @@
       
 **titlebars.ahk**
   - turns off window titlebars
-
+# 
 Some of these were written by people in the AHK community, others were written by me. Credit goes to the individuals responsible. Hard to find the source for some of these scripts as they are 10+ years old and the forum posts are long gone.
